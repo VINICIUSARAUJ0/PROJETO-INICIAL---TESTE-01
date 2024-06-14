@@ -8,5 +8,4 @@ function toggleMode() {
   } else {
     img.setAttribute("src", "./assets/avatar-brownblack.png")
   }
-  // alert("olá, amor da minha vida! Vamos no casar o mais rápido possível?")
 }
